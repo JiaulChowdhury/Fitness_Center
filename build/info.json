@@ -1,0 +1,56 @@
+[
+    {
+      "id": "1",
+      "name": "Jumping Jacks",
+      "description": "This exercise targets the whole body. Jumping jacks are the best cardio exercises. There are various benefits of including it in your everyday exercise program. It makes your heart stronger, builds muscles stronger, helps in weight loss, builds stronger bones and uplift your mood instantly and helps relieve stress. It makes you stronger, flexible by improving your stability and stamina. How to do: Stand straight with your feet together and hands on your sides. Jump along with raising your arms above your head and bring your feet apart. Reverse the movement immediately and come back to the original position. Start doing it faster.",
+      "age": "20-50",
+      "time": 120,
+      "img": "https://img.freepik.com/premium-photo/young-man-doing-jumping-jacks-star-jump-exercise-beach-morning_265657-21.jpg?w=740"
+     
+    },
+    {
+      "id": "2",
+      "name": "Plank",
+      "description": "It’s the best exercise for rock hard abs. A simple exercise for beginners for stronger abs and to strengthen your shoulder, arms and back. It can be done in many variations. How to do: get into pushup position with elbows bent in 90 degree keeping your body weight on your forearms. Ensure your body forms a straight line from your head to feet. Hold on to the position as long as you can.",
+      "age": "20-50",
+      "time": 120,
+      "img": "https://img.freepik.com/premium-photo/mixed-race-mature-man-doing-plank-position-while-exercising-gym_274689-15572.jpg?w=740"
+     
+    },
+    {
+      "id": "3",
+      "name": "Cross Crunches",
+      "description": "It’s more effective and easy exercise for abs and the oblique muscles. It strengthens the core and strengthens your abdominal muscles. How to do: Lie flat on your back. Bend your knees with feet flat on the floor. Place both the hands loosely behind your head. Now, bring your right shoulder and elbow across your body and at the same time bring up your left knee towards your left shoulder. Try to touch your knee with elbow. Go back to the original position and repeat the same with the left elbow.",
+      "age": "20-50",
+      "time": 120,
+      "img": "https://img.freepik.com/free-photo/young-male-athlete-training-white_155003-41677.jpg?w=740&t=st=1666715432~exp=1666716032~hmac=13814388c85d63220365c41b5fc3f359524a85a3746357081f873e314f544892"
+     
+    },
+    {
+      "id": "4",
+      "name": "Side Plank",
+      "description": "It strengthens oblique and helps your build stronger abs. How to do: Start on your side with feet together while keeping forearm below your shoulder. Now slowly raise your hip until your body form straight line from head to feet. Hold on to the position and repeat on the other side too!",
+      "age": "20-50",
+      "time": 120,
+      "img": "https://img.freepik.com/free-photo/muscular-man-doing-doing-plank-exercise_651396-1589.jpg?w=740&t=st=1666715490~exp=1666716090~hmac=f18ec3cdae946850e775d824650a2dda30113b722986f1bd6c2b7f04dced7120"
+     
+    },
+    {
+      "id": "5",
+      "name": "Squats",
+      "description": "Squats burn calories and might help you lose weight. They also lower your chances of injuring your knees and ankles. As you exercise, the movement strengthens your tendons, bones, and ligaments around the leg muscles.",
+      "age": "20-50",
+      "time": 120,
+      "img": "https://img.freepik.com/free-photo/young-muscular-athlete-practicing-squats-gym-with-weight_155003-35486.jpg?w=740&t=st=1666715547~exp=1666716147~hmac=415e39ecf2c9343ea0b639ab965b5eaae9c8a21555eb8557d456eab267909dcb"
+     
+    },
+    {
+      "id": "6",
+      "name": "Push-ups",
+      "description": "Basically, push-ups are effective exercise for strengthening chest and arm muscles How to do: Get down on the ground setting your hands shoulder-width apart. Ensure your body forms a straight line. Begin to lower your body keeping elbows close to your body. Push back to starting high plank position.",
+      "age": "20-50",
+      "time": 120,
+      "img": "https://img.freepik.com/free-photo/close-up-man-doing-workout-gym_23-2147949516.jpg?w=740&t=st=1666715585~exp=1666716185~hmac=09d2916894e8558c6b440b5731270cce6586c501994fba5ae771e99ec15100c4"
+     
+    }
+]
